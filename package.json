@@ -1,0 +1,27 @@
+{
+  "name": "180408",
+  "version": "1.0.0",
+  "description": "node exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedCAT18/node_ex.git"
+  },
+  "author": "RedCAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedCAT18/node_ex/issues"
+  },
+  "homepage": "https://github.com/RedCAT18/node_ex#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "nodemon": "^1.17.3"
+  }
+}
