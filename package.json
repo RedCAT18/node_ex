@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/RedCAT18/node_ex#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
